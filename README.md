@@ -1,1 +1,1 @@
-# long-time-no-code
+# a simple formular
