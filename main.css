@@ -1,0 +1,26 @@
+*{
+    background-color:#c8f3f7;
+}
+
+input{
+    border:3px solid black;
+    padding:3px;
+    margin:5px;
+}
+ul li{
+    list-style:none;
+}
+body{
+    font-weight:bold;
+}
+
+a:visited{
+    color:red;
+}
+a:hover{
+    color:green;
+}
+
+img{
+    border-radius:5px pink;
+}
